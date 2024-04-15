@@ -13,4 +13,4 @@
     
 По итогам прошлого релиза команда определила, на каком устройстве возникает больше всего багов. Поэтому сейчас решили тестировать именно на этой конфигурации: Honor 8, ОС Android 9.0 Pie, разрешение экрана 1080х1920, диагональ 5.5. Важно: тестирование необходимо провести на эмуляторе Android Studio. 
 
-Результатом работы стал документ с проведенным тестированием https://drive.google.com/drive/folders/15mDQHQ3QAHUJsFiusqeQZYO3tPc-LdFs (см. прикрепленные документы).
+Результатом работы стал документ с проведенным тестированием [https://drive.google.com/drive/folders/15mDQHQ3QAHUJsFiusqeQZYO3tPc-LdFs](https://docs.google.com/document/d/1Ew2HwtPkNNxpuhkPHwz-9LXEYuj5K7S2/edit?usp=drive_link) (см. прикрепленные документы).
